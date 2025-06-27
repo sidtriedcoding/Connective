@@ -1,3 +1,4 @@
+
 This is a Website which is used to empower networking amongst small-scale buisnesses including startups, financial advisors, entrepreneurs, vendors etc.
 
 Tools & technologies used: HTML, CSS, NextJS, Reactjs, digitalocean for hosting, MySQL for database storage, React Router, Prisma ORM and CRUD, Clerk authentication
